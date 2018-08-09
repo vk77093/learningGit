@@ -1,0 +1,1 @@
+<h1>My first Laravel applications</h1>
